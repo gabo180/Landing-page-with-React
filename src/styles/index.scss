@@ -1,5 +1,11 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.main-container {
+    justify-content: space-between;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
 /* 
 
     You can write your own styles here...
